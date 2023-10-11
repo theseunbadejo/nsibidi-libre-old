@@ -8,11 +8,11 @@ The Nsibidi Libre typeface is a vehicle for cultural preservation, storytelling,
 
 Here are a few early explorations I have worked on showing a set of Nsibidi Pictograms and a resultant set of Latin Alphabet Glyphs sketches inspired by the form of the Nsibidi Pictograms. 
 
-![[./documentation/Nsibidi_Pictograms.jpg]]
+![Nsibidi Pictograms (Inspiration for the Typeface)](./documentation/Nsibidi_Pictograms.jpg)
 
 Nsibidi Pictograms (Inspiration for the Typeface)
   
-![[./documentation/Nsibidi_Preliminary_Sketches.jpg]]
+![Early Nsibidi Libre Typeface rough sketches](./documentation/Nsibidi_Preliminary_Sketches.jpg)
 
 Early Nsibidi Libre Typeface rough sketches
 
