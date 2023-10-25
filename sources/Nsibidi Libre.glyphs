@@ -8942,7 +8942,7 @@ unicode = 102;
 {
 color = 5;
 glyphname = g;
-lastChange = "2023-10-25 16:15:09 +0000";
+lastChange = "2023-10-25 21:26:42 +0000";
 layers = (
 {
 background = {
@@ -9274,7 +9274,7 @@ nodes = (
 );
 }
 );
-width = 620;
+width = 612;
 },
 {
 layerId = m003;
@@ -9422,7 +9422,7 @@ nodes = (
 );
 }
 );
-width = 620;
+width = 612;
 }
 );
 unicode = 103;
