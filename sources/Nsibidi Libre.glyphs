@@ -5,20 +5,21 @@ DisplayStrings = (
 O,
 N,
 "nnannfnngnn
+nnfnnoofoo
 nnannooaoo
-himnorstuv
+him norstv
 nnsnnoosoo
 nntnnootoo
 nnfnnoofoo
-Heartbeating
+Heart beating
 nnrnnooroo
 ",
 "HON
 HON
 HON
-hamburgefonstiv
-hamburgefonstiv
-hamburgefonstiv
+hamburgefonstiv 
+hamburgefonstiv 
+hamburgefonstiv 
 
 Observing night he sees Hamburgs streets invigorating him
 ",
@@ -12745,9 +12746,9 @@ width = 600;
 unicode = 343;
 },
 {
-color = 1;
+color = 5;
 glyphname = s;
-lastChange = "2023-10-25 16:28:52 +0000";
+lastChange = "2023-10-25 19:03:49 +0000";
 layers = (
 {
 guides = (
@@ -15186,7 +15187,7 @@ unicode = 55;
 },
 {
 glyphname = space;
-lastChange = "2023-10-18 00:11:21 +0000";
+lastChange = "2023-10-25 18:59:14 +0000";
 layers = (
 {
 layerId = m01;
@@ -15198,7 +15199,7 @@ width = 200;
 },
 {
 layerId = m003;
-width = 200;
+width = 300;
 }
 );
 unicode = 32;
